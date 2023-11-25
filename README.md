@@ -7,3 +7,5 @@ This is a README file.
 *The End.*
 
 ~~Author: Kseniia Orlova. ~~
+
+Edit version №2 13:38. 
